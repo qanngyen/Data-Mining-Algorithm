@@ -1,1 +1,1 @@
-# Data-Mining-Algorithm
+# Algorithm
